@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719993821454",
+    "project_id": "albandri-1893b",
+    "storage_bucket": "albandri-1893b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719993821454:android:623a4231683d6afd1d5f5f",
+        "android_client_info": {
+          "package_name": "com.example.Albandri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719993821454-ikv60s2j14oc51u0egqisnlu3p16r1d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAad4QwFePrw06W8phmBrU0ZAkmrfLfkI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719993821454-ikv60s2j14oc51u0egqisnlu3p16r1d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
